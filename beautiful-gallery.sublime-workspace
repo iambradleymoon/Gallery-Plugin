@@ -1,0 +1,635 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"heigh",
+				"heightWithMargin"
+			],
+			[
+				"wp",
+				"wpwrap"
+			],
+			[
+				"modal",
+				"modaldisplay"
+			],
+			[
+				"mo",
+				"modalmessage"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"de",
+				"defaultfeatureimg"
+			],
+			[
+				"togle",
+				"toggleClass"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"backr",
+				"background-color"
+			],
+			[
+				"ini",
+				"inherit"
+			],
+			[
+				"text-r",
+				"text-transform"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"thum",
+				"thumbnail"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"logo",
+				"logo"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"inle",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "beautiful_gallery.php",
+			"settings":
+			{
+				"buffer_size": 2118,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pph",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"p",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bradleymoon/Desktop/Beautiful Gallery"
+	],
+	"file_history":
+	[
+		"/private/var/folders/70/h70l7w_d0g3__x4m5g8jdprr0000gn/T/fz3temp-2/wp-config 2.php",
+		"/Volumes/Clients/AMS001 - AMSTECH (CHAL)/Projects/Website/Development/Theme/functions.php",
+		"/Volumes/Clients/AMS001 - AMSTECH (CHAL)/Projects/Website/Development/Theme/style.css",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/functions.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/js/addons.js",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/single.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/page.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/style.css",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/single-vacancy.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/front-page.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/header.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/banner-sidebar.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/item-download-overview.php",
+		"/Users/bradleymoon/Desktop/functions.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/images/download-icon.svg",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/index.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/page-cookies.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/page-sidebar.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/vacancies-template.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/page-support.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/page-sidebar-quick-links.php",
+		"/Users/bradleymoon/Downloads/Longhill Website - OLD/BD BITS/mysqlall.sql",
+		"/Users/bradleymoon/Desktop/raise-a-ticket.html",
+		"/Users/bradleymoon/Desktop/ticket-styling.css",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/tag-includes.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/internal-banners.php",
+		"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/search.php",
+		"/F/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/includes/external-banners.php",
+		"/F/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/header.php",
+		"/F/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/banner-full-width.php",
+		"/F/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/functions.php",
+		"/C/xampp/htdocs/dev-longhill/.htaccess",
+		"/C/xampp/htdocs/dev-longhill/wp-login.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/BradleyMoon/Documents/wp_barrington_2018-06-28_14-14-54.sql/wp_barrington_2018-06-28_14-14-54.sql",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/style.css",
+		"/C/Users/BradleyMoon/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/includes/js/addons.js",
+		"/C/Users/BradleyMoon/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/page.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/index.php",
+		"/C/Users/BradleyMoon/AppData/Local/Temp/Temp1_wp_barrington_2018-06-28_14-14-54.sql.zip/wp_barrington_2018-06-28_14-14-54.sql",
+		"/C/xampp/htdocs/index.php",
+		"/C/.htaccess",
+		"/C/Users/BradleyMoon/Desktop/foundation-emails/index.html",
+		"/C/Users/BradleyMoon/Desktop/Divi Theme Options.json",
+		"/C/Users/BradleyMoon/Desktop/swagger.json",
+		"/C/Users/BradleyMoon/Desktop/ABS001_GENERIC_2018_007.html",
+		"/C/Users/BradleyMoon/Desktop/wp-config.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/header.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/includes/js/bootstrap.bundle.js",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/functions.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/footer.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/includes/js/addons",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/front-page.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/front-pag.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/functions.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/search.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/Longhill High School/404.php",
+		"/C/xampp/htdocs/dev-longhill/wp-content/themes/twentyseventeen/style.css",
+		"/C/xampp/htdocs/hotpenguins/wp-content/themes/Hot Penguins/functions.php",
+		"/C/Users/BradleyMoon/Downloads/transfonter.org-20180418-141208/stylesheet.css",
+		"/C/xampp/htdocs/hotpenguins/wp-config.php",
+		"/C/xampp/htdocs/hotpenguins/wp-content/themes/Hot Penguins/style.css",
+		"/C/Users/BradleyMoon/Documents/main.php",
+		"/C/Users/BradleyMoon/Downloads/simple-jquery-filtering/index.html",
+		"/C/Users/BradleyMoon/Desktop/Child Theme/style.css",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/header.php",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/style.css",
+		"/C/Users/BradleyMoon/Downloads/Divi/Divi/options_divi.php",
+		"/C/Users/BradleyMoon/Downloads/Divi/Divi/footer.php",
+		"/C/Users/BradleyMoon/Dropbox/BEAUTIFUL/Website/Design/FINAL/MT/MT_Concepts_003_Folder/Links/ouriconfont/style.css",
+		"/C/Users/BradleyMoon/Dropbox/BEAUTIFUL/Website/Design/FINAL/MT/MT_Concepts_003_Folder/Links/beautiful-icon/style.css",
+		"/C/Users/BradleyMoon/AppData/Local/Temp/Temp1_Divi.zip/Divi/header.php",
+		"/C/Users/BradleyMoon/Dropbox/BEAUTIFUL/Website/Design/FINAL/MT/MT_Concepts_003_Folder/Links/ouriconfont/demo.html",
+		"/C/Users/BradleyMoon/Dropbox/BEAUTIFUL/Website/Design/FINAL/MT/MT_Concepts_003_Folder/Links/ouriconfont/selection.json",
+		"/C/Users/BradleyMoon/Dropbox/BEAUTIFUL/Website/Design/FINAL/MT/MT_Concepts_003_Folder/Links/ouriconfont/demo-files/demo.css",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/index.php",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/single.php",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/css/styles.css",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/cars.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/contact.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/bar.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/cars.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/contact.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/giggle-box.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/icecream.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/links.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/menus.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/photobooth.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/sugar-shack.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/sweetsbar.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/tearoom.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/testimonials.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/General/vintage-china.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/index.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/menus.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/newOldSite/index.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/testimonials.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/General/icecream.html",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/css/bootstrap-theme.min.css",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/css/bootstrap.min.css",
+		"/C/Users/BradleyMoon/Desktop/Fab Foods Backup/29 march/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/footer.php",
+		"/C/xampp/htdocs/beautiful/wp-config.php",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/functions.php",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/single-post.php",
+		"/C/xampp/htdocs/fabfood/wp-content/themes/fabfood/index.html",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/front-page.php",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/footer.php",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/index.php",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/header.php",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/page.php",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/includes/js/addons.js",
+		"/C/xampp/htdocs/test-site/wp-config.php",
+		"/C/Users/BradleyMoon/AppData/Local/Temp/Temp1_Divi.zip/Divi/functions.php",
+		"/C/Users/BradleyMoon/Desktop/Divi/includes/builder/module/Sidebar.php",
+		"/C/xampp/htdocs/ticket/include/ost-config.php",
+		"/C/xampp/htdocs/longhill/wp-config.php",
+		"/C/xampp/htdocs/iwp/config.php",
+		"/C/xampp/htdocs/longhill/wp-content/themes/Long Hill School/style.css",
+		"/C/Users/BradleyMoon/Desktop/Fab Food For You/index.html",
+		"/C/xampp/htdocs/chalk/package.json",
+		"/C/xampp/htdocs/chalk/README.md",
+		"/C/Users/BradleyMoon/Desktop/particles.js-master/demo/index.html",
+		"/C/xampp/htdocs/test-site/wp-content/themes/Divi Child/functions.php",
+		"/C/Users/BradleyMoon/Desktop/BNI CHILD/style.css",
+		"/C/Users/BradleyMoon/Desktop/jake.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 671.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "beautiful_gallery.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "beautiful-gallery.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Clients/LON004 - LONGHILL SCHOOL/Projects/Website/Theme/longhill.sublime-project"
+			],
+			[
+				"am",
+				"/private/var/folders/70/h70l7w_d0g3__x4m5g8jdprr0000gn/T/fz3temp-2/the-amstech-group.sublime-workspace"
+			],
+			[
+				"ams",
+				"/private/var/folders/70/h70l7w_d0g3__x4m5g8jdprr0000gn/T/fz3temp-2/the-amstech-group.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
